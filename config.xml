@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id          = "myfirstapp"
+        version     = "1.0.0" >
+		
+    <name>GUI_app</name>
+    <description>The graphical user interface (GUI), is a type of user interface that allows users to interact with electronic
+         devices through graphical icons and visual indicators such as secondary notation, instead of text-based user
+         nterfaces, typed command labels or text navigation. GUIs were introduced in reaction to the perceived steep
+         learning curve of command-line interfaces (CLIs), which require commands to be typed on a computer
+         eyboard.</description>
+    <author href="" email="dnonadnedna1@gmail.com">
+		YEVHENII BUTKO
+	</author>
+	<platform name="android" />
+	
+	<plugin name="cordova-plugin-device" spec="~1.1.4" />
+	<plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
+
+</widget>
